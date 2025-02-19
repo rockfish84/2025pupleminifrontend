@@ -91,7 +91,10 @@ const Gohome = () => {
    
         {/* 문제 내용 */}
         <div className="text-gray-700 my-6 text-xl">
-          <p>우주최강 퍼즐 동아리 KAIST PUPLE의 많고 많은 별들 중 가장 큰 5개</p>
+        <p>우주 최강 퍼플 동아리 KAIST PUPLE에는 많은 별들이 있단다.</p>
+          <p>그 중 가장 큰 별 5개가 보이니?</p>
+          <p>안 보인다고?</p>
+          <p>그럼 더 넓게 보는 게 어떤가?</p>
         </div>
         <br/>
         <br/>
