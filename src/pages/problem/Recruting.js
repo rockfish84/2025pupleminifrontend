@@ -107,6 +107,7 @@ const Recruting = () => {
               구글 폼 링크
             </a>
           </p>
+          <p className="font-bold">[Answer Type: 한글 8글자자]</p>
         </div>
 
         {/* 정답 입력 폼 */}
