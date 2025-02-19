@@ -4,6 +4,8 @@ const HowToPlay = () => {
   return (
     <PageLayout>
       <div className="text-center">
+      <br />
+      <br />
         <h2 className="text-3xl font-bold my-6">진행 방법</h2>
         <p className="text-gray-700">
           ‘2025 퍼플 동박 미궁’은 미궁 게임으로, 주어진 문제들을 풀어서 미궁의 끝에 도달하는 것이 목표인 게임입니다.<br />

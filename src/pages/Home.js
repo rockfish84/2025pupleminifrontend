@@ -64,6 +64,8 @@ const Home = () => {
     <PageLayout>
       <div className="text-center">
         <p className="text-gray-700 my-6">
+        <br />
+        <br />
           ‘2025 퍼플 동박 미궁’에 오신 여러분을 환영합니다!<br />
           ‘2025 퍼플 동박 미궁’은 KAIST Puple이 제작한 미궁 게임으로,<br />
           주어진 문제들을 해결하고 넘어가는 형식으로 되어 있습니다.<br />

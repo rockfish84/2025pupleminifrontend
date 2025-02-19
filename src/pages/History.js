@@ -59,6 +59,8 @@ const History = () => {
   return (
     <PageLayout>
       <div className="text-center">
+      <br />
+      <br />
         <h2 className="text-3xl font-bold my-6">히스토리</h2>
         <div className="text-gray-700">
           {history.length > 0 ? (

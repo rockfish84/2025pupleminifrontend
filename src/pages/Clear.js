@@ -28,6 +28,8 @@ const Clear = () => {
   return (
     <PageLayout>
       <div className="text-center max-w-3xl mx-auto px-4">
+      <br />
+      <br />
         <h2 className="text-4xl font-bold my-6 text-purple-700">축하합니다!</h2>
         <p className="text-gray-700 text-xl">
           당신은 모든 문제를 클리어했습니다! 🎉
@@ -35,6 +37,8 @@ const Clear = () => {
         <p className="text-lg text-gray-600 mt-4">
           명예의 전당에 당신의 이름을 올리려면, 이메일로 히스토리 사진과 아이디를 보내주세요.
         </p>
+        <br />
+        <br />
 
         <div className="mt-8 text-left">
           <p className="mt-4 text-gray-700">

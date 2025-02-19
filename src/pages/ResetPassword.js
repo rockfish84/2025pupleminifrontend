@@ -38,6 +38,8 @@ const ResetPassword = () => {
 
   return (
     <div className="flex flex-col items-center p-8">
+              <br />
+              <br />
       <h1 className="text-3xl font-bold my-4">비밀번호 재설정</h1>
       <p className="text-gray-700 mb-6">새로운 비밀번호를 입력하세요.</p>
 

@@ -130,6 +130,8 @@ const MyPage = () => {
 
   return (
     <div className="flex flex-col items-center text-center p-8">
+              <br />
+              <br />
       <h1 className="text-3xl font-bold my-4">마이페이지</h1>
       {user && <h2 className="text-2xl my-2">{user.username}님, 환영합니다!</h2>}
 
