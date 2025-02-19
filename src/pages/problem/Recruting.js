@@ -74,7 +74,7 @@ const Recruting = () => {
           style={{ maxWidth: "600px", marginTop: "3rem" }}
         >
           <p>
-            드디어! KAIST Puple의 리쿠르팅 공지가 올라왔네요!
+            드디어! KAIST Puple의 리크루팅 공지가 올라왔네요!
             <br />
             기간이 다 지나기 전에 어서 리크루팅에 신청해야겠어요!
             <br />

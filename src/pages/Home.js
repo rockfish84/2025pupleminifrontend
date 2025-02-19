@@ -54,6 +54,7 @@ const Home = () => {
       6: "/problem/introduce",
       7: "/problem/gohome",
       8: "/problem/timerun",
+      9: "/clear"
     };
 
     navigate(problemRoutes[user.currentProblemId] || "/problem/clear");
