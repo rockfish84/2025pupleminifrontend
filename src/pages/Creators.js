@@ -74,9 +74,9 @@ const Creators = () => {
           <p>김정훈 (13기)</p>
           <br />
           <br />
-          <h3 className="text-2xl font-bold mt-6">개발</h3>
+          <h3 className="text-2xl font-bold mt-6">베타 테스트</h3>
           <br />
-          <p>노희윤 (8기)</p>
+          <p>노희윤 (8기) 양재빈 (12기)</p>
           <br />
           <br />
 
