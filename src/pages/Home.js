@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import PageLayout from "../components/PageLayout";
+import HomeImage from "../assets/homepage.png";
 import axios from "axios";
 
 const Home = () => {
@@ -62,6 +63,16 @@ const Home = () => {
 
   return (
     <PageLayout>
+      {/* 두 번째 이미지 (확대 1.7배 예시) */}
+      <br />
+      <br />
+      <div className="my-4 w-full flex justify-center">
+        <img
+        src={HomeImage}
+        alt="복면산 문제 풀이 예시 이미지"
+        className="responsive-img max-w-xs md:max-w-sm lg:max-w-md"
+        />
+      </div>
       <div className="text-center">
         <p className="text-gray-700 my-6">
         <br />

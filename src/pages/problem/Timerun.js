@@ -124,7 +124,7 @@ const Timerun = () => {
         <br/>
         <br/>
         <div className="text-gray-700 my-6">
-        <p className="font-bold">[Answer Type: English]</p>
+            <p className="font-bold">[Answer Type: English]</p>
         </div>
 
         {/* 정답 입력 폼 */}
