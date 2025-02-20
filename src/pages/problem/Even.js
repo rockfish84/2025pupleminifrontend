@@ -152,6 +152,9 @@ const Even = () => {
         {/* 메시지 표시 */}
         {message && <p className="mt-4 text-red-600">{message}</p>}
       </div>
+      <br />
+      <br />
+      <br />
     </PageLayout>
   );
 };

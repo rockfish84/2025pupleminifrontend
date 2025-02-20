@@ -81,7 +81,7 @@ const Timerun = () => {
             <br />
             Puple 부원이 되는 꿈을 꾸느라 퍼플이가
             <br />
-            리쿠르팅 지원을 놓치고 말았어요!
+            리크루팅 지원을 놓치고 말았어요!
             <br />
             이건 있을 수 없는 일이야!!!
             <br />
@@ -92,7 +92,7 @@ const Timerun = () => {
         <br /><br /><br />
 
         {/* 문제 제목 */}
-        <h2 className="text-3xl font-bold my-6">시간을 달려서</h2>
+        <h2 className="text-3xl font-bold my-6">시간을 달려서 @kaist_puple</h2>
    
         {/* 문제 설명 */}
         <div className="text-gray-700 my-6">
@@ -147,6 +147,9 @@ const Timerun = () => {
         {/* 메시지 표시 */}
         {message && <p className="mt-4 text-red-600">{message}</p>}
       </div>
+      <br />
+      <br />
+      <br />
     </PageLayout>
   );
 };

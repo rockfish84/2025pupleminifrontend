@@ -105,7 +105,7 @@ const Introduce = () => {
           </p>
           <br />
           <p>
-            E: 우리가 누구게?
+            E: 우리는 어디의 무엇이게?
           </p>
           <br />
           <p className="font-bold">Answer Type: 한글 다섯 글자</p>
@@ -131,6 +131,9 @@ const Introduce = () => {
         {/* 메시지 표시 */}
         {message && <p className="mt-4 text-red-600">{message}</p>}
       </div>
+      <br />
+      <br />
+      <br />
     </PageLayout>
   );
 };
