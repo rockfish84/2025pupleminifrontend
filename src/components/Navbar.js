@@ -23,7 +23,7 @@ const Navbar = () => {
       <div className="flex items-center justify-between p-4 px-8">
         {/* 🔥 왼쪽: 로고 */}
         <Link to="/" className="text-2xl font-extrabold text-purple-700 hover:text-purple-500">
-          2025 동박 미니 미궁
+          2025 퍼플 동박 미궁
         </Link>
 
         {/* 📌 중앙: 메뉴 (화면 기준 중앙) */}
