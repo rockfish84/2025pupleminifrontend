@@ -99,10 +99,11 @@ const Wellseen = () => {
             style={{ width: "400px", height: "auto" }}
           />
         </div>
-        <div className="my-4" style={{ transform: "scale(1.3)", transformOrigin: "center" }}>
+        <div className="my-4 w-full flex justify-center">
           <img
             src={WellSeen2}
-            style={{ width: "400px", height: "auto" }}
+            alt="집에 가는 길 문제 이미지"
+            className="responsive-img max-w-xs md:max-w-sm lg:max-w-md"
           />
         </div>
 

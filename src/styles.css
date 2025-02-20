@@ -188,3 +188,19 @@ body {
     font-size: 12px;
   }
 }
+
+/* 이미지가 부모 컨테이너를 넘지 않도록 설정 */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* 모바일에서도 확대된 이미지가 넘치지 않도록 조정 */
+@media (max-width: 768px) {
+  .responsive-img {
+    width: 90%;
+    max-width: 100%;
+  }
+}

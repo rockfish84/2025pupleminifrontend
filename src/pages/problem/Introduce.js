@@ -108,7 +108,7 @@ const Introduce = () => {
             E: 우리는 어디의 무엇이게?
           </p>
           <br />
-          <p className="font-bold">Answer Type: 한글 다섯 글자</p>
+          <p className="font-bold">[Answer Type: OO의 OOO]</p>
         </div>
 
         {/* 정답 입력 폼 */}

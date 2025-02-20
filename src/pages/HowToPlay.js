@@ -18,14 +18,13 @@ const HowToPlay = () => {
           <strong>[Answer Type: English]</strong> 인 경우, 정답을 띄어쓰기 없이 영어 소문자로만 입력하시면 됩니다.<br />
           <strong>[Answer Type: Korean]</strong> 인 경우, 정답을 띄어쓰기 없이 한글로만 입력하시면 됩니다.<br />
           <strong>[Answer Type: Number]</strong> 인 경우, 정답을 띄어쓰기 없이 숫자로만 입력하시면 됩니다.<br />
-          해당되지 않는 문제의 경우 명시되어 있는 정답 형식을 참고하시면 됩니다.<br />
           일부 문제의 경우 정답 형식이 명시되어 있지 않습니다.
         </p>
         <br />
         <p className="text-gray-700">
           본 미궁은 로그인 후에 이용이 가능합니다.<br />
-          만약 본 미궁이 처음이시라면 <strong>Login</strong> 탭을 통해서 회원가입을 하실 수 있습니다.<br />
-          로그인 이후에는 <strong>History</strong> 탭을 통해 현재까지 푼 모든 문제에 접근하실 수 있습니다.
+          만약 본 미궁이 처음이시라면 <strong>로그인</strong> 탭을 통해서 회원가입을 하실 수 있습니다.<br />
+          로그인 이후에는 <strong>히스토리</strong> 탭을 통해 현재까지 푼 모든 문제에 접근하실 수 있습니다.
         </p>
         <br />
         <h3 className="text-2xl font-semibold mt-6">미궁 진행 방법 요약</h3>

@@ -78,7 +78,7 @@ const Creators = () => {
           <br />
           <h3 className="text-2xl font-bold mt-6">베타 테스트</h3>
           <br />
-          <p>정석훈 (7기) 노희윤 (8기) 양재빈 (12기) 나인석 (12기)</p>
+          <p>노희윤 (8기) 양재빈 (12기) 나인석 (12기)</p>
           <br />
           <br />
 

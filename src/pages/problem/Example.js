@@ -96,13 +96,13 @@ const Example = () => {
         <br />
 
         {/* 첫 번째 이미지 (1.3배 고정) */}
-        <div className="my-4" style={{ transform: "scale(1.3)", transformOrigin: "center" }}>
-          <img
-            src={ExampleImage1}
-            alt="복면산 문제 예시 이미지"
-            style={{ width: "400px", height: "auto" }}
-          />
-        </div>
+        <div className="my-4 w-full flex justify-center">
+  <img
+    src={ExampleImage1}
+    alt="복면산 문제 예시 이미지"
+    className="responsive-img max-w-sm md:max-w-md lg:max-w-lg"
+  />
+</div>
         <br />
         <br />
         <br />
@@ -151,13 +151,13 @@ const Example = () => {
             <br />
 
             {/* 두 번째 이미지 (확대 1.7배 예시) */}
-            <div className="my-4" style={{ transform: "scale(1.7)", transformOrigin: "center" }}>
-              <img
-                src={ExampleImage2}
-                alt="복면산 문제 풀이 예시 이미지"
-                className="w-full max-w-xs my-4"
-              />
-            </div>
+            <div className="my-4 w-full flex justify-center">
+  <img
+    src={ExampleImage2}
+    alt="복면산 문제 풀이 예시 이미지"
+    className="responsive-img max-w-xs md:max-w-sm lg:max-w-md"
+  />
+</div>
             <br />
             <br />
 
