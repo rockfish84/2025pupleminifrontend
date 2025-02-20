@@ -101,6 +101,9 @@ const Home = () => {
           미궁 시작하기
         </button>
       </div>
+      <br />
+      <br />
+      <br />
     </PageLayout>
   );
 };

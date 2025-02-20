@@ -81,6 +81,9 @@ const History = () => {
           )}
         </div>
       </div>
+      <br />
+      <br />
+      <br />
     </PageLayout>
   );
 };

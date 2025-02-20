@@ -15,6 +15,9 @@ const Ranking = () => {
           - 3위: TBD <br/>
         </p>
       </div>
+      <br />
+      <br />
+      <br />
     </PageLayout>
   );
 };

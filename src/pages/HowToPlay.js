@@ -37,6 +37,9 @@ const HowToPlay = () => {
           4. 행운을 빕니다!
         </p>
       </div>
+      <br />
+      <br />
+      <br />
     </PageLayout>
   );
 };

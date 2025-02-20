@@ -240,6 +240,9 @@ const MyPage = () => {
           계정 초기화
         </button>
       </div>
+      <br />
+      <br />
+      <br />
     </div>
   );
 };

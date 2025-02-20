@@ -76,6 +76,9 @@ const Clear = () => {
           </p>
         </div>
       </div>
+      <br />
+      <br />
+      <br />
     </PageLayout>
   );
 };
