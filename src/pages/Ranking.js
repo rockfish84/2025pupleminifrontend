@@ -10,8 +10,13 @@ const Ranking = () => {
         <p className="text-gray-700">
           축하합니다! 게임을 클리어한 유저들의 순위입니다. <br/>
           <br/>
-          - 1위: TBD <br/>
-          - 2위: TBD <br/>
+          <h3 className="text-2xl font-bold mt-6">1위: yuchantony(오유찬)<br/></h3>
+         <br/>
+         <h3 className="text-2xl font-bold mt-6"> 2위: WolfB<br/></h3>
+         <br/>
+          퍼플은내가접수한다.<br/>
+          <br/>
+
           - 3위: TBD <br/>
         </p>
       </div>
