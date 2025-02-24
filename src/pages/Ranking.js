@@ -12,11 +12,12 @@ const Ranking = () => {
           <br/>
           <h3 className="text-2xl font-bold mt-6">1위: yuchantony(오유찬)<br/></h3>
          <br/>
+         퍼플 미궁 신작 언제 나오나요<br/>
+         <br/>
          <h3 className="text-2xl font-bold mt-6"> 2위: WolfB<br/></h3>
          <br/>
           퍼플은내가접수한다.<br/>
           <br/>
-
           - 3위: TBD <br/>
         </p>
       </div>
