@@ -22,6 +22,10 @@ const Ranking = () => {
           <br />
           너무 재밌게 풀었습니다ㅎㅎ 퍼플 흥해라~ 김정훈 화이팅<br />
           <br />
+          <h3 className="text-2xl font-bold mt-6"> 4위: loreips<br /></h3>
+          <br />
+          문제가 재밌다! 문제 하나하나가 다 명작...<br />
+          <br />
         </p>
       </div>
       <br />
