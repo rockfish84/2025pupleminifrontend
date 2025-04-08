@@ -26,6 +26,10 @@ const Ranking = () => {
           <br />
           문제가 재밌다! 문제 하나하나가 다 명작...<br />
           <br />
+          <h3 className="text-2xl font-bold mt-6"> 5위: Cenix820<br /></h3>
+          <br />
+          바나나우유 힘들게 먹기 챌린지<br />
+          <br />
         </p>
       </div>
       <br />
