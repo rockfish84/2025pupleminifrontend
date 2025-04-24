@@ -30,6 +30,10 @@ const Ranking = () => {
           <br />
           바나나우유 힘들게 먹기 챌린지<br />
           <br />
+          <h3 className="text-2xl font-bold mt-6"> 6위: wj2738<br /></h3>
+          <br />
+          좀 힘들었지만 그래도 재밌었습니다 ^^<br />
+          <br />
         </p>
       </div>
       <br />
